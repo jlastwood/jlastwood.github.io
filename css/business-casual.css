@@ -7,7 +7,7 @@
 body {
   font-family: 'Lora';
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(88, 42, 0, 0.25))), url("../img/bgh.jpg");
-  background: linear-gradient(rgba(88, 42, 0, 0.65)), url("../img/bgh.jpg");
+  background: linear-gradient(rgba(21, 97, 173, 0.65)), url("../img/bgh.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -81,7 +81,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #fc5226;
+  color: #1561ad;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #fc5226;
+  color: #1c77ac;
 }
 
 @media (min-width: 992px) {
@@ -146,7 +146,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(84, 0, 3, 0.9);
+  background-color: rgba(29, 186, 180, 0.9);
 }
 
 .cta .cta-inner {
@@ -203,7 +203,7 @@ p {
 }
 
 .list-hours .list-hours-item {
-  border-bottom: 1px solid rgba(84, 0, 3, 0.5);
+  border-bottom: 1px solid rgba(29, 186, 180, 0.5);
   padding-bottom: .25rem;
   margin-bottom: 1rem;
   font-style: italic;
@@ -226,7 +226,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(88, 42, 0, 0.9);
+  background-color: rgba(252, 82, 38, 0.9);
 }
 
 .text-primary {
@@ -238,8 +238,8 @@ p {
 }
 
 .btn {
-  -webkit-box-shadow: 0px 3px 3px 0px rgba(84, 0, 3, 0.1);
-  box-shadow: 0px 3px 3px 0px rgba(84, 0, 3, 0.1);
+  -webkit-box-shadow: 0px 3px 3px 0px rgba(29, 186, 180, 0.1);
+  box-shadow: 0px 3px 3px 0px rgba(29, 186, 180, 0.1);
 }
 
 .btn-primary {
