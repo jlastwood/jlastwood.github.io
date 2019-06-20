@@ -2,6 +2,20 @@
 
 [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
+## Janet Bluezone IT chagnes
+
+Colors
+https://hookagency.com/website-color-schemes/
+Left Blue: #1561ad   rgb(21,97,173)
+Right Blue- Muted: #1c77ac  rgb(28,119,172)
+Blue Green: #1dbab4   buttons   rgb(29,186,180)
+Red-Orange: #fc5226  mainNav text-primary navbar brand rgb(252,82,38)
+
+Added font awesom icons on contact page
+https://fontawesome.com/icons?d=gallery&q=mail&m=free
+Removed the Hours feature on contact page. 
+Tried to fix issues with adding links in the call to action area (does not work)
+
 ## Preview
 
 [![Business Casual Preview](https://startbootstrap.com/assets/img/screenshots/themes/business-casual.png)](https://blackrockdigital.github.io/startbootstrap-business-casual/)
