@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Janet Astwood — Executive CV</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      background: #f9fafb;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      background: #fff;
+    }
+    header {
+      border-bottom: 2px solid #e5e7eb;
+      padding-bottom: 20px;
+      margin-bottom: 30px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+      color: #0f172a;
+    }
+    header p {
+      margin: 6px 0 0;
+      color: #6b7280;
+    }
+    .contact a {
+      color: #0ea5e9;
+      text-decoration: none;
+      margin-right: 10px;
+    }
+    h2 {
+      font-size: 18px;
+      margin-top: 30px;
+      color: #374151;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    ul {
+      margin: 10px 0 20px 20px;
+      padding: 0;
+    }
+    ul li {
+      margin-bottom: 6px;
+    }
+    .role {
+      margin-bottom: 20px;
+    }
+    .role h3 {
+      margin: 0;
+      font-size: 16px;
+      color: #111827;
+    }
+    .role .meta {
+      font-size: 14px;
+      color: #6b7280;
+    }
+    .chip-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+    .chip {
+      background: #f3f4f6;
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      padding: 4px 10px;
+      font-size: 13px;
+    }
+    footer {
+      text-align: center;
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Janet Astwood</h1>
+      <p>Seasoned Project Manager & Consultant — Enterprise Systems, Program Management, Digital Transformation</p>
+      <div class="contact">
+        <a href="mailto:jlastwood@gmail.com">Email</a>
+        <a href="https://www.linkedin.com/in/janet-astwood-3bb5b39">LinkedIn</a>
+        <a href="https://bluezoneit.com">BlueZoneIT</a>
+        <a href="https://github.com/jlastwood">GitHub</a>
+        <a href="https://buymeacoffee.com/thepmmonitor">Coffee</a>
+        <a href="https://www.upwork.com/freelancers/~014b27088d2e859ce3">Upwork</a>
+      </div>
+    </header>
+
+    <section>
+      <h2>Executive Summary</h2>
+      <p>Seasoned Project Manager and Consultant with 20+ years of experience in enterprise systems, program management, and digital transformation. Proven ability to lead cross-functional teams, manage large-scale programs, and deliver operational excellence across industries. Skilled in stakeholder alignment, vendor management, and process optimization, with a track record of measurable improvements in efficiency and service delivery.</p>
+    </section>
+
+    <section>
+      <h2>Competencies</h2>
+      <div class="chip-list">
+        <span class="chip">Agile · Scrum · Waterfall</span>
+        <span class="chip">Enterprise Systems Ops</span>
+        <span class="chip">IT Service Management</span>
+        <span class="chip">PMO Processes (PMBOK)</span>
+        <span class="chip">Test Management</span>
+        <span class="chip">Vendor Negotiation</span>
+        <span class="chip">Distributed Team Leadership</span>
+        <span class="chip">BI & Reporting (Oracle, DB2, Teradata)</span>
+        <span class="chip">Jira · Confluence · Trello · Monday.com</span>
+        <span class="chip">ERP: IFS, SAP, Dynamics 365</span>
+        <span class="chip">Languages: C, Perl, SQL, Python, HTML, PHP</span>
+      </div>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+
+
+  <div class="role">
+    <h3>Executive Consultant — Bright Solutions</h3>
+    <div class="meta">2023 – Present · Darmstadt, Germany</div>
+    <ul>
+      <li>Moderated steering committee meetings, guiding discussions and ensuring productive outcomes.</li>
+      <li>Facilitated participation, enforced communication rules, and managed conflict resolution.</li>
+      <li>Identified opportunities and raised issues for leadership decisions.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Virtual COO & PM Consultant — Bright Solutions</h3>
+    <div class="meta">2018 – 2023 · Darmstadt, Germany</div>
+    <ul>
+      <li>Designed squads and coached project managers.</li>
+      <li>Implemented Jira Service Desk, Jira projects, and Confluence templates.</li>
+      <li>Migrated accounting tools to Xero and set up DevOps services.</li>
+      <li>Defined staffing processes using just-in-time models.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Owner & Operator — The PM Monitor</h3>
+    <div class="meta">2022 – Present · Barcelona</div>
+    <ul>
+      <li>Developed project planning tools integrated with NLP for faster, higher-quality plans.</li>
+      <li>Created templates for charters, risk classification, WBS, and reporting.</li>
+      <li>Designed meeting analysis and stoplight reports.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Senior Business Consultant — Blue Zone IT</h3>
+    <div class="meta">2018 – Present · Global</div>
+    <ul>
+      <li>Audited and optimized business processes using Jira, Trello, Monday.com, Kissflow.</li>
+      <li>Implemented IT support services and project management frameworks.</li>
+      <li>Delivered ERP rollouts, Freshdesk, and Power BI reporting.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Delivery Manager — JumpModel Inc.</h3>
+    <div class="meta">2022 – 2024 · Edmonton, Canada</div>
+    <ul>
+      <li>Ensured seamless service delivery, managing tasks, KPIs, budgets, and risks.</li>
+      <li>Led ERP improvements, automation projects, and training/documentation initiatives.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Business Development Consultant — Global Consulting Roles</h3>
+    <div class="meta">2017 – 2025 · Remote</div>
+    <ul>
+      <li>Supported startups and established firms in insurance, publishing, payments, and hospitality.</li>
+      <li>Implemented Freshdesk, Process Street, Kissflow, HR systems (Personio, ICMS), accounting systems (Xero).</li>
+      <li>Designed processes and procedures for PM tools (Asana, Jira, Trello, Monday.com).</li>
+      <li>Developed SOPs, workflows, and automation pipelines.</li>
+      <li>Managed client projects in ERP, Magento, WordPress, Dynamics 365, Power Apps.</li>
+      <li>Audited technology, people, and processes for improvements or merger decisions.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Project Manager — Flash Hub</h3>
+    <div class="meta">2019 – 2023 · Darmstadt, Germany</div>
+    <ul>
+      <li>Delivered staffing and recruiting frameworks and operational improvements for project staffing.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Project Manager — Nexibeo</h3>
+    <div class="meta">2014 – 2018 · Romania</div>
+    <ul>
+      <li>Managed global teams delivering web and mobile platforms.</li>
+      <li>Oversaw six-figure contracts including social media, appointment management, and UX design projects.</li>
+      <li>Delivered CMS implementations (Drupal, WordPress).</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Certified Program Consultant — Upwork</h3>
+    <div class="meta">2015 – 2016 · Global</div>
+    <ul>
+      <li>Designed talent acquisition strategies and onboarding processes.</li>
+      <li>Supported clients in building remote teams and adopting platform features.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>IT Project Manager — Mortgage Planner Inc.</h3>
+    <div class="meta">2013 – 2014 · Seattle, USA</div>
+    <ul>
+      <li>Managed offshore development teams for mobile and software projects.</li>
+      <li>Oversaw QA, compliance, and marketing deliverables.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Independent Consultant — Appen Butler Hill</h3>
+    <div class="meta">2013 · Barcelona, Spain</div>
+    <ul>
+      <li>Evaluated online search results and web content relevance.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Program Manager — Royal Bank of Canada (RBC)</h3>
+    <div class="meta">2009 – 2011 · Toronto, Canada</div>
+    <ul>
+      <li>Directed projects within large programs across multiple teams.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Manager, Enterprise Systems — RBC</h3>
+    <div class="meta">2000 – 2009 · Toronto, Canada</div>
+    <ul>
+      <li>Managed enterprise operations balancing budget, risk, and timelines.</li>
+      <li>Founded Global Tivoli Users Group (GTUG).</li>
+      <li>External audit confirmed higher service delivery with fewer staff.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Enterprise Systems Ops & Development — RBC</h3>
+    <div class="meta">1999 – 2001 · Toronto, Canada</div>
+    <ul>
+      <li>Delivered IT services and incident monitoring across multiple data centers and countries.</li>
+      <li>Implemented monitoring tools and BI dashboards, service desks, and distribution solutions.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Cub Scout Leader & Group Committee — Scouts Canada</h3>
+    <div class="meta">1995 – 2008 · Oakville, Canada</div>
+    <ul>
+      <li>Provided operational support, financial management, and volunteer recruitment.</li>
+      <li>Guided youth leadership development through teamwork and problem-solving.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Project Manager — Construction Market Data (CMD)</h3>
+    <div class="meta">1996 – 1998 · Atlanta, USA</div>
+    <ul>
+      <li>Supported startup operations, managing IT infrastructure and legacy software.</li>
+      <li>Negotiated vendor contracts and evaluated acquisitions.</li>
+      <li>Delivered training and support to production staff.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Application Developer — Southam Inc.</h3>
+    <div class="meta">1990 – 1996 · Toronto, Canada</div>
+    <ul>
+      <li>Developed applications supporting editorial and distribution systems.</li>
+    </ul>
+  </div>
+
+  <div class="role">
+    <h3>Programmer Analyst — Statistics Canada & Revenue Canada</h3>
+    <div class="meta">1982 – 1990 · Ottawa, Canada</div>
+    <ul>
+      <li>Designed and implemented statistical applications supporting national data collection.</li>
+      <li>Developed audit software applications supporting business auditors.</li>
+    </ul>
+  </div>
+</section>
+
+ 
+
+    <section>
+      <h2>Education & Certifications</h2>
+      <ul>
+        <li>Diploma of Business, Data Processing/Computer Science — St. Clair College</li>
+        <li>PMP (PMI)</li>
+        <li>ITIL V2 Foundations & Service Management Practitioner</li>
+        <li>Catalan Intermediate Certificate</li>
+        <li>Additional training: Docker, Data Analysis, R Programming, Blockchain, Analytics Edge</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Volunteering</h2>
+      <ul>
+        <li>Scouts Canada — Youth programs (1995 – 2010)</li>
+        <li>Toronto Breakfast Club — Volunteer breakfast program (1995 – 1998)</li>
+        <li>Brookdale School Council — Secretary (2001 – 2005)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Publications</h2>
+      <p><em>Projects Without Boundaries: Successfully Leading Teams and Managing Projects in a Virtual World</em> — Wiley & Sons, 2017</p>
+    </section>
+
+    <footer>
+      © Janet Astwood — Executive CV 2025
+    </footer>
+  </div>
+</body>
+</html>
